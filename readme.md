@@ -17,6 +17,6 @@ Click the image below to browse this GitHub branch.</p>
 - Better user profiles. With more customization options and personality.
 
 
-Live demo: https://krowd-1.netlify.app/
+Live demo: https://delicate-sunburst-fb48f4.netlify.app/
 
 
