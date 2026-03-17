@@ -1,4 +1,4 @@
-# Krowdfund Crowdfunding-Platform 
+# Krowdfund Crowdfunding-Platform ..
 The next-gen crowdfunding platform. Made with React - This simple crowdfunding application allows users to back projects through the Blockchain and Ethereum.<br>
 <br>
 The flow is simple. A user  create a campaign. Campaigns then can be backed by other users, using their wallet and Ethereum.
